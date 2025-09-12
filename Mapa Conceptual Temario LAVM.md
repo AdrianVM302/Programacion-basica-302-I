@@ -1,4 +1,1 @@
-# Programacion-basica-302-I
-## Leonel Adrian Vazquez Morales
-## Fecha de naciemiento 21/Mayo/2009
-## Portafolio de codigos de C++
+<img width="1007" height="756" alt="image" src="https://github.com/user-attachments/assets/9eab01d2-fb17-482a-aaf2-4781d6f9623d" />
